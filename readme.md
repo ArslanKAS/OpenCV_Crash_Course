@@ -1,1 +1,1 @@
-# OpenCV Crash Course
+# OpenCV Crash Course (Complete)
